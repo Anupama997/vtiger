@@ -8,6 +8,7 @@ public class Program1Test {
 	{
 		System.out.println("Hello...");
 		System.out.println("changes in TE workspace...");
+		System.out.println("changes in workspace 1....");
 	}
 
 }
